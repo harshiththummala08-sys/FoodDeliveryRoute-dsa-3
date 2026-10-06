@@ -130,10 +130,10 @@ All 4 review presentations are provided in native Microsoft PowerPoint (`.pptx`)
 
 | Review | Presentation Topic | PowerPoint File | Format |
 |---|---|---|---|
-| **Review 1** | Project Title Selection & Problem Framing | [Review_1.pptx](./PPT/Review_1.pptx) | Microsoft PowerPoint Presentation (`.pptx`) |
-| **Review 2** | Literature Review & Gap Analysis (8 Papers) | [Review_2.pptx](./PPT/Review_2.pptx) | Microsoft PowerPoint Presentation (`.pptx`) |
-| **Review 3** | System Design & Implementation Readiness | [Review_3.pptx](./PPT/Review_3.pptx) | Microsoft PowerPoint Presentation (`.pptx`) |
-| **Review 4** | **Final Implementation, Benchmarks & Live Demo** | [Review_4.pptx](./PPT/Review_4.pptx) | Microsoft PowerPoint Presentation (`.pptx`) |
+| **Review 1** | Project Title Selection & Problem Framing | [Review 1.pptx](./PPT/Review%201.pptx) | Microsoft PowerPoint Presentation (`.pptx`) |
+| **Review 2** | Literature Review & Gap Analysis (8 Papers) | [Review 2.pptx](./PPT/Review%202.pptx) | Microsoft PowerPoint Presentation (`.pptx`) |
+| **Review 3** | System Design & Implementation Readiness | [Review 3.pptx](./PPT/Review%203.pptx) | Microsoft PowerPoint Presentation (`.pptx`) |
+| **Review 4** | **Final Implementation, Benchmarks & Live Demo** | [Review 4.pptx](./PPT/Review%204.pptx) | Microsoft PowerPoint Presentation (`.pptx`) |
 
 ---
 
