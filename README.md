@@ -121,3 +121,29 @@ npm run preview
 - **/ Live Optimization**: Primary command console with collapsible Orders Queue, Mapbox route visualizer, Fleet Roster, and 7-stage Algorithm Execution Pipeline.
 - **/ Algorithm Center**: Dedicated educational explorer featuring comprehensive cards, complexity explanations, and visualizers for all 7 algorithms.
 - **/ Analytics**: Multi-series Recharts dashboards covering distance contraction, hourly order throughput, algorithm runtime latency profiles, and fulfillment status.
+
+---
+
+## 📊 Project Presentations & Review PPTs
+
+All 4 review presentations and documentation decks are included in the repository under [`docs/presentations/`](./docs/presentations/):
+
+| Review | Topic & Scope | PPTX Presentation | Markdown Summary |
+|---|---|---|---|
+| **Review 1** | Project Title Selection & Problem Framing | [Download PPTX](./docs/presentations/Review_1_Project_Title_Selection.pptx) | [View Review 1](./docs/presentations/Review_1.md) |
+| **Review 2** | Literature Review & Gap Analysis (8 Papers) | [Download PPTX](./docs/presentations/Review_2_Literature_Review.pptx) | [View Review 2](./docs/presentations/Review_2.md) |
+| **Review 3** | System Design & Implementation Readiness | [Download PPTX](./docs/presentations/Review_3_System_Design_and_Implementation.pptx) | [View Review 3](./docs/presentations/Review_3.md) |
+| **Review 4** | **Final Implementation, Benchmarks & Live Demo** | [Download PPTX](./docs/presentations/Review_4_Final_Implementation_and_Results.pptx) | [View Review 4](./docs/presentations/Review_4.md) |
+
+---
+
+## 👥 Project Team
+- **T Harshith** — 2510030029
+- **D Siddhartha** — 2510030423
+- **S Anirudh** — 2510030418
+- **Ganesh** — 2510030111
+- **Bharath** — 2510030114
+
+**Course:** Data Structures and Algorithms  
+**Industry Benchmark:** Swiggy / Zomato Food Delivery Optimization
+
