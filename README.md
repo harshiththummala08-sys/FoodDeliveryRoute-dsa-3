@@ -124,16 +124,16 @@ npm run preview
 
 ---
 
-## 📊 Project Presentations & Review PPTs
+## 📊 Project Presentations (PowerPoint Format)
 
-All 4 review presentations and documentation decks are included in the repository under [`docs/presentations/`](./docs/presentations/):
+All 4 review presentations are provided in native Microsoft PowerPoint (`.pptx`) format in the [`PPT/`](./PPT/) folder:
 
-| Review | Topic & Scope | PPTX Presentation | Markdown Summary |
+| Review | Presentation Topic | PowerPoint File | Format |
 |---|---|---|---|
-| **Review 1** | Project Title Selection & Problem Framing | [Download PPTX](./docs/presentations/Review_1_Project_Title_Selection.pptx) | [View Review 1](./docs/presentations/Review_1.md) |
-| **Review 2** | Literature Review & Gap Analysis (8 Papers) | [Download PPTX](./docs/presentations/Review_2_Literature_Review.pptx) | [View Review 2](./docs/presentations/Review_2.md) |
-| **Review 3** | System Design & Implementation Readiness | [Download PPTX](./docs/presentations/Review_3_System_Design_and_Implementation.pptx) | [View Review 3](./docs/presentations/Review_3.md) |
-| **Review 4** | **Final Implementation, Benchmarks & Live Demo** | [Download PPTX](./docs/presentations/Review_4_Final_Implementation_and_Results.pptx) | [View Review 4](./docs/presentations/Review_4.md) |
+| **Review 1** | Project Title Selection & Problem Framing | [Review_1.pptx](./PPT/Review_1.pptx) | Microsoft PowerPoint Presentation (`.pptx`) |
+| **Review 2** | Literature Review & Gap Analysis (8 Papers) | [Review_2.pptx](./PPT/Review_2.pptx) | Microsoft PowerPoint Presentation (`.pptx`) |
+| **Review 3** | System Design & Implementation Readiness | [Review_3.pptx](./PPT/Review_3.pptx) | Microsoft PowerPoint Presentation (`.pptx`) |
+| **Review 4** | **Final Implementation, Benchmarks & Live Demo** | [Review_4.pptx](./PPT/Review_4.pptx) | Microsoft PowerPoint Presentation (`.pptx`) |
 
 ---
 
