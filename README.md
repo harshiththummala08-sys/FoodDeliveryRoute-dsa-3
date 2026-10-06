@@ -137,13 +137,29 @@ All 4 review presentations are provided in native Microsoft PowerPoint (`.pptx`)
 
 ---
 
-## 👥 Project Team
-- **T Harshith** — 2510030029
-- **D Siddhartha** — 2510030423
-- **S Anirudh** — 2510030418
-- **Ganesh** — 2510030111
-- **Bharath** — 2510030114
+## 📑 Project Based Learning (PBL) Final Documentation Report
 
-**Course:** Data Structures and Algorithms  
-**Industry Benchmark:** Swiggy / Zomato Food Delivery Optimization
+The official academic PBL Final Documentation report conforming to the university template is available at:
+- **[PBL_Final_Documentation.docx](./PBL_Final_Documentation.docx)** (Root Document)
+- **[docs/PBL_Final_Documentation_Report.docx](./docs/PBL_Final_Documentation_Report.docx)** (Docs Directory)
+
+---
+
+## 👥 Project Team & Faculty Guide
+
+### Student Team
+1. **D Siddhartha** — 2510030423
+2. **T Harshith Reddy** — 2510030029
+3. **S Anirudh** — 2510030418
+4. **Ganesh** — 2510030111
+5. **Bharath** — 2510030114
+
+### Faculty Guide
+- **Dr. M. Saidireddy**, Associate Professor
+
+**Department:** Department of Computer Science and Engineering  
+**Institution:** Koneru Lakshmaiah Education Foundation (KLH Deemed to be University), Aziz Nagar, Hyderabad – 500075  
+**Course:** Data Structures and Algorithms (23CS2103A)  
+**Industry Benchmark:** Swiggy / Zomato Hyper-Local Food Delivery Optimization
+
 
